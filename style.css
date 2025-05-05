@@ -24,7 +24,7 @@ body {
 }
 
 .smartphone:before {
-    content: '';
+
     position: absolute;
     width: 60px;
     height: 10px;
