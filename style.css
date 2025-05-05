@@ -113,7 +113,15 @@ body {
 }
 
 .result-image {
-    width: 44px;
+    width: 156px;
+    height: 106px;
+    border-radius: 10%;
+    background: #262626;
+    margin-right: 22px;
+    
+}
+.result-image-after {
+    width: 54px;
     height: 44px;
     border-radius: 50%;
     background: #262626;
